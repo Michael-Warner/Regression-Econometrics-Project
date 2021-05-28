@@ -17,7 +17,7 @@ arrived and the bookings that were canceled.
 
 ## Method:
 
-The methodologies employed were to first create a data/stakeholder analysis chart to guide the work to be done. 
+The methodologies employed were to first create a Business Model Canvas to guide the work to be done. 
 ![image](https://user-images.githubusercontent.com/76630966/119970619-3fc5a980-bfb0-11eb-992f-1d38f25a54cb.png)
 
 Then the data was cleaned and a deep exploratory data analysis(EDA), took place.
